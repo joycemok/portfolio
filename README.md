@@ -10,13 +10,25 @@ Hello friends, welcome to my data portfolio!
 
 ## Python
 
-
-|Project Name| |Date| |Project Description|
-|------------| |----| |-------------------|
-|aaaaaaaaaaaa| |aaaa| |aaaaaaaaaaaaaaaaaaa|
+|Project Name|Date|Project Description|
+|------------|----|-------------------|
+|aaaaaaaaaaaa|aaaa|aaaaaaaaaaaaaaaaaaa|
 
 ## R
 
+|Project Name|Date|Project Description|
+|------------|----|-------------------|
+|aaaaaaaaaaaa|aaaa|aaaaaaaaaaaaaaaaaaa|
+
 ## SQL
 
+|Project Name|Date|Project Description|
+|------------|----|-------------------|
+|aaaaaaaaaaaa|aaaa|aaaaaaaaaaaaaaaaaaa|
+
 ## Tableau
+
+|Project Name|Date|Project Description|
+|------------|----|-------------------|
+|aaaaaaaaaaaa|aaaa|aaaaaaaaaaaaaaaaaaa|
+
