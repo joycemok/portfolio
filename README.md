@@ -10,9 +10,9 @@ Hello friends, welcome to my data portfolio!
 
 ## Python
 
-|Project Name|Date|Project Description|Topics|
+|Project Name|Date|Topics|Project Description|
 |------------|----|-------------------|------|
-|IMDB Data Analysis|November 2023|Created a movie dataset from IMDB's existing public database with over a million movie titles. Used the dataset to analyze how the movie industry has historically changed and found consumer trends and preferences in movie genres over time.|Data Cleaning, EDA, Data Visualizations|
+|IMDB Data Analysis|November 2023|Data Cleaning, EDA, Data Visualizations|Created a movie dataset from IMDB's existing public database with over a million movie titles. Used the dataset to analyze how the movie industry has historically changed and found consumer trends and preferences in movie genres over time.|
 
 ## R
 
