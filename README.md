@@ -30,5 +30,5 @@ Hello friends, welcome to my data portfolio!
 
 |Project Name|Date|Project Description|
 |------------|----|-------------------|
-|[Nobel Prize and Society](https://nobel.humspace.ucla.edu/)|June 2023|Used tableau and python's ggplot2 package to create data visualizations centering on how trends in nobel prize recipients are a microcosm for the ongoing gender and racial disparities faced in American society. Interwove data visualizations into a compelling narrative that logically explains and visualizes how the nobel prize impacts our society.|
+|[Nobel Prize and Society](https://nobel.humspace.ucla.edu/)|June 2023|Used tableau to create data visualizations centering on how trends in nobel prize recipients are a microcosm for the ongoing gender and racial disparities faced in American society. Interwove data visualizations into a compelling narrative that logically explains and visualizes how the nobel prize impacts our society.|
 
