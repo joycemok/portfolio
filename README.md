@@ -12,7 +12,7 @@ Hello friends, welcome to my data portfolio!
 
 |Project Name|Date|Topics|Project Description|
 |------------|----|-------------------|------|
-|IMDB Data Analysis|November 2023|Data Cleaning, EDA, Data Visualizations|Created a movie dataset from IMDB's existing public database with over a million movie titles. Used the dataset to analyze how the movie industry has historically changed and found consumer trends and preferences in movie genres over time.|
+|[IMDB Data Analysis](https://github.com/joycemok/python/blob/main/IMDB%20Data%20Analysis.ipynb)|November 2023|Data Cleaning, EDA, Data Visualizations|Created a movie dataset from IMDB's existing public database with over a million movie titles. Used the dataset to analyze how the movie industry has historically changed and found consumer trends and preferences in movie genres over time.|
 
 ## R
 
