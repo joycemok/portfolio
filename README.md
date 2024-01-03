@@ -16,9 +16,9 @@ Hello friends, welcome to my data portfolio!
 
 ## R
 
-|Project Name|Date|Project Description|
-|------------|----|-------------------|
-|aaaaaaaaaaaa|aaaa|aaaaaaaaaaaaaaaaaaa|
+|Project Name|Date|Topics|Project Description|
+|------------|----|------|-------------------|
+|The Effect of Music on Arithmetic Performance|September 2022|Statistical Analysis, Residual Analysis, ANOVA, Experimental Design|Designed and conducted an experiment using virtual islanders to create to test how music affects arithmetic performance. Collected data on 240 participants and analyzed the results. Conducted an ANOVA, assessed diagnostic plots, and conducted post hoc analyses using Tukey analysis.|
 
 ## SQL
 
