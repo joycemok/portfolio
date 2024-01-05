@@ -31,5 +31,6 @@ Hello friends, welcome to my data portfolio!
 
 |Project Name|Date|Project Description|
 |------------|----|-------------------|
-|[Nobel Prize and Society](https://nobel.humspace.ucla.edu/)|June 2023|Used tableau to create data visualizations centering on how trends in nobel prize recipients are a microcosm for the ongoing gender and racial disparities faced in American society. Interwove data visualizations into a compelling narrative that logically explains and visualizes how the nobel prize impacts our society.|
+|[Nobel Prize and Society](https://nobel.humspace.ucla.edu/)|June 2023|Used Tableau to create data visualizations centering on how trends in nobel prize recipients are a microcosm for the ongoing gender and racial disparities faced in American society. Interwove data visualizations into a compelling narrative that logically explains and visualizes how the nobel prize impacts our society.|
+|[San Francisco Crime (2018-2023)](https://public.tableau.com/views/SanFranciscoCrime2018-2023/SfCrimeDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)|December 2023|Created a Tableau dashboard that shows crime trends within the last five years. Data visualizations reveal that theft is the predominant type of crime running rampant in San Francisco and that specific neighborhoods continue to be epicenters for crime such as the Tenderloin district.|
 
