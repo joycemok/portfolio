@@ -18,7 +18,7 @@ Hello friends, welcome to my data portfolio!
 
 |Project Name|Date|Topics|Project Description|
 |------------|----|------|-------------------|
-|The Effect of Music on Arithmetic Performance|September 2022|Statistical Analysis, Residual Analysis, ANOVA, Experimental Design|Designed and conducted an experiment using virtual islanders to create to test how music affects arithmetic performance. Collected data on 240 participants and analyzed the results. Conducted an ANOVA, assessed diagnostic plots, and conducted post hoc analyses using Tukey analysis.|
+|[The Effect of Music on Arithmetic Performance for Islanders](https://github.com/joycemok/Island-Project)|September 2022|Statistical Analysis, Residual Analysis, ANOVA, Experimental Design|Designed and conducted an experiment using virtual islanders to create to test how music affects arithmetic performance. Collected data on 240 participants and analyzed the results. Conducted an ANOVA, assessed diagnostic plots, and conducted post hoc analyses using Tukey analysis.|
 
 ## SQL
 
