@@ -25,7 +25,7 @@ Hello friends, welcome to my data portfolio!
 
 |Project Name|Date|Project Description|
 |------------|----|-------------------|
-|aaaaaaaaaaaa|aaaa|aaaaaaaaaaaaaaaaaaa|
+|Coming Soon|Coming Soon|Coming Soon|
 
 ## Tableau
 
