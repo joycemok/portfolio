@@ -25,7 +25,7 @@ Hello friends, welcome to my data portfolio!
 
 |Project Name|Date|Project Description|
 |------------|----|-------------------|
-|Coming Soon|Coming Soon|Coming Soon|
+|[HackerRank SQL Challenges](https://github.com/joycemok/SQL)|October 2023|Completed HackerRank's SQL series which included challenges on necessary SQL skills such as select queries and join functions.|
 
 ## Tableau
 
