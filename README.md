@@ -3,10 +3,10 @@
 Hello friends, welcome to my data portfolio! 
 
 ## ✅ Table of Contents
-- [Python]()
-- [R]()
-- [SQL]()
-- [Tableau]()
+- [Python](#python)
+- [R](#r)
+- [SQL](#sql)
+- [Tableau](#tableau)
 
 ## Python
 
