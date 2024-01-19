@@ -26,8 +26,8 @@ Hello friends, welcome to my data portfolio!
 
 |Project Name|Topics|Project Description|
 |------------|----|-------------------|
-|[8 Week SQL Challenge](https://github.com/joycemok/8-Week-SQL-Challenge)|Data Analysis, Data Cleaning, Data Manipulation, Database Querying, Business Insights| In this 8 week challenge developed by [Data with Danny](https://8weeksqlchallenge.com/), I work on 8 case studies where I use SQL to answer business related questions. This showcases my ability to find insights from data using SQL, to write queries in SQL, and to solve problems.| 
-|[HackerRank SQL Challenges](https://github.com/joycemok/SQL)|Data Analysis, Data Manipulation, Database Querying|Completed HackerRank's SQL series which included challenges on necessary SQL skills such as select queries and join functions.|
+|[8 Week SQL Challenge](https://github.com/joycemok/8-Week-SQL-Challenge)|Data Analysis, Data Cleaning, Data Manipulation, Database Querying, Business Insights| In this 8 week challenge developed by [Data with Danny](https://8weeksqlchallenge.com/), I work on 8 case studies where I use PostgreSQL to answer business related questions. This showcases my ability to find insights from data using SQL, to write queries in SQL, and to solve problems.| 
+|[HackerRank SQL Challenges](https://github.com/joycemok/SQL)|Data Analysis, Data Manipulation, Database Querying|Completed HackerRank's SQL series which included challenges on necessary SQL skills such as select queries and join functions. The exercises were done in both MySQL and Microsoft SQL Server.|
 
 ## Tableau
 
