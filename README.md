@@ -33,6 +33,7 @@ Hello friends, welcome to my data portfolio!
 
 |Project Name|Date|Project Description|
 |------------|----|-------------------|
+|[My 2023 Spotify Data](https://public.tableau.com/views/My_spotify_data_dashboard/My2023SpotifyDataDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)|February 2023| Used MySQL to query and explore the my personal streaming data from Spotify. Used dataset and SQL queried tables to create a Tableau dashboard to visualize my listening habits and top songs and artists.|
 |[San Francisco Crime (2018-2023)](https://public.tableau.com/views/SanFranciscoCrime2018-2023/SfCrimeDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)|December 2023|Created a Tableau dashboard that shows crime trends within the last five years. Data visualizations reveal that theft is the predominant type of crime running rampant in San Francisco and that specific neighborhoods continue to be epicenters for crime such as the Tenderloin district. The [dataset](https://datasf.gitbook.io/datasf-dataset-explainers/sfpd-incident-report-2018-to-present) is taken from San Francisco's public database.|
 |[Nobel Prize and Society](https://nobel.humspace.ucla.edu/)|June 2023|Used Tableau to create data visualizations centering on how trends in nobel prize recipients are a microcosm for the ongoing gender and racial disparities faced in American society. Interwove data visualizations into a compelling narrative that logically explains and visualizes how the nobel prize impacts our society.|
 
