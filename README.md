@@ -12,6 +12,7 @@ Hello friends, welcome to my data portfolio!
 
 |Project Name|Date|Topics|Project Description|
 |------------|----|-------------------|------|
+|[Predicting 2025 March Madness Bracket](https://github.com/joycemok/March-Madness-Bracket-Predictor)|October 2025|Data Cleaning, EDA, Data Modeling|Analyzed team statistics that contribute to winning and used team statistics to predict game outcomes for the 2025 Women's March Madness bracket.|
 |[Winning in the NBA: Golden State Warriors Edition](https://github.com/joycemok/NBA-Analysis)|January 2024|Webscraping, Data Cleaning, EDA, Data Visualization|Webscraped NBA team data and analyzed team metrics that contribute to winning in the last decade. Specifically focused on the Golden State Warriors metrics in comparison to the rest of the NBA teams over this time frame.|
 |[IMDB Data Analysis](https://github.com/joycemok/python/blob/main/IMDB%20Data%20Analysis.ipynb)|November 2023|Data Cleaning, EDA, Data Visualizations|Created a movie dataset from IMDB's existing public database with over a million movie titles. Used the dataset to analyze how the movie industry has historically changed and found consumer trends and preferences in movie genres over time.|
 |[Spotify Song Popularity](https://github.com/joycemok/Spotify-Song-Popularity)|June 2023|EDA, Data Visualizations, Machine Learning Models| Built machine learning classification models to predict popularity of songs on Spotify. 
